@@ -33,8 +33,9 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.programasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.premio = new System.Windows.Forms.ToolStripMenuItem();
-            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.somaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,7 +59,8 @@
             // 
             this.programasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.premio,
-            this.somaToolStripMenuItem});
+            this.somaToolStripMenuItem,
+            this.salarioToolStripMenuItem});
             this.programasToolStripMenuItem.Name = "programasToolStripMenuItem";
             this.programasToolStripMenuItem.Size = new System.Drawing.Size(76, 20);
             this.programasToolStripMenuItem.Text = "Programas";
@@ -70,6 +72,12 @@
             this.premio.Text = "Prêmio";
             this.premio.Click += new System.EventHandler(this.somaToolStripMenuItem_Click);
             // 
+            // somaToolStripMenuItem
+            // 
+            this.somaToolStripMenuItem.Name = "somaToolStripMenuItem";
+            this.somaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.somaToolStripMenuItem.Text = "Soma";
+            // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
@@ -77,11 +85,12 @@
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
-            // somaToolStripMenuItem
+            // salarioToolStripMenuItem
             // 
-            this.somaToolStripMenuItem.Name = "somaToolStripMenuItem";
-            this.somaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.somaToolStripMenuItem.Text = "Soma";
+            this.salarioToolStripMenuItem.Name = "salarioToolStripMenuItem";
+            this.salarioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salarioToolStripMenuItem.Text = "Salário";
+            this.salarioToolStripMenuItem.Click += new System.EventHandler(this.salarioToolStripMenuItem_Click);
             // 
             // Form2
             // 
@@ -107,5 +116,6 @@
         private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem premio;
         private System.Windows.Forms.ToolStripMenuItem somaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem salarioToolStripMenuItem;
     }
 }

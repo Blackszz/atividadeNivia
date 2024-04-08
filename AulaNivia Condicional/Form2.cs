@@ -28,5 +28,12 @@ namespace AulaNivia_Condicional
             Form1 Form2 = new Form1();
             Form2.Show();
         }
+
+        private void salarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 Form2 = new Form3();
+            Form2.Show();
+        }
     }
 }

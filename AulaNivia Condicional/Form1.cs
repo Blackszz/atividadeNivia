@@ -47,7 +47,26 @@ namespace AulaNivia_Condicional
 
         private void txtDistancia_TextChanged(object sender, EventArgs e)
         {
-            num1 = 
+        }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            double distancia, resultado;
+            distancia = Convert.ToDouble(txtDistancia.Text);
+
+            if (distancia < 800)
+            {
+                resultado = 5000;
+            }
+            else if (distancia >= 800 && distancia < 1500)
+            {
+                resultado = 10000;
+            }
+            else
+            {
+                resultado = 15000;
+            }
+            txtPremio.Text = resultado.ToString();
         }
     }
 }
