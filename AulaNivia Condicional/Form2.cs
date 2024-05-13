@@ -35,5 +35,12 @@ namespace AulaNivia_Condicional
             Form3 Form2 = new Form3();
             Form2.Show();
         }
+
+        private void faroraçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+                Form4 Form2 = new Form4();
+            Form2.Show();
+        }
     }
 }
