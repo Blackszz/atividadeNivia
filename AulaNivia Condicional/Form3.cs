@@ -37,5 +37,13 @@ namespace AulaNivia_Condicional
 
             }
         }
+
+        private void btmVoltar_Click(object sender, EventArgs e)
+        {
+
+            this.Hide();
+            Form2 Form3 = new Form2();
+            Form3.Show();
+        }
     }
 }

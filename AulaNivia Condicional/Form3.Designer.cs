@@ -116,6 +116,7 @@
             this.btmVoltar.TabIndex = 8;
             this.btmVoltar.Text = "Voltar";
             this.btmVoltar.UseVisualStyleBackColor = true;
+            this.btmVoltar.Click += new System.EventHandler(this.btmVoltar_Click);
             // 
             // lblresultado
             // 

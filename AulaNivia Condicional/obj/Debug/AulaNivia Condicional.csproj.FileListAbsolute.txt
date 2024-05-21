@@ -34,3 +34,16 @@ C:\Users\2jd\Downloads\Trabalho Nivia\Trabalho Nivia\AulaNivia Condicional\obj\D
 C:\Users\2jd\Downloads\Trabalho Nivia\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.csproj.CoreCompileInputs.cache
 C:\Users\2jd\Downloads\Trabalho Nivia\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.exe
 C:\Users\2jd\Downloads\Trabalho Nivia\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.pdb
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\bin\Debug\AulaNivia Condicional.exe.config
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\bin\Debug\AulaNivia Condicional.exe
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\bin\Debug\AulaNivia Condicional.pdb
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.csproj.AssemblyReference.cache
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Form1.resources
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Form2.resources
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Form3.resources
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Form4.resources
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia_Condicional.Properties.Resources.resources
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.csproj.GenerateResource.cache
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.exe
+C:\Users\2jd\Downloads\teste-teste-main\teste-teste-main\Trabalho Nivia (2)\Trabalho Nivia\AulaNivia Condicional\obj\Debug\AulaNivia Condicional.pdb

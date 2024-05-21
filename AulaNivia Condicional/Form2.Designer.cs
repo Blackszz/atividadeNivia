@@ -35,8 +35,8 @@
             this.premio = new System.Windows.Forms.ToolStripMenuItem();
             this.somaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.faroraçãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -87,19 +87,19 @@
             this.salarioToolStripMenuItem.Text = "Salário";
             this.salarioToolStripMenuItem.Click += new System.EventHandler(this.salarioToolStripMenuItem_Click);
             // 
+            // faroraçãoToolStripMenuItem
+            // 
+            this.faroraçãoToolStripMenuItem.Name = "faroraçãoToolStripMenuItem";
+            this.faroraçãoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.faroraçãoToolStripMenuItem.Text = "Fatoração";
+            this.faroraçãoToolStripMenuItem.Click += new System.EventHandler(this.faroraçãoToolStripMenuItem_Click);
+            // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
-            // 
-            // faroraçãoToolStripMenuItem
-            // 
-            this.faroraçãoToolStripMenuItem.Name = "faroraçãoToolStripMenuItem";
-            this.faroraçãoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.faroraçãoToolStripMenuItem.Text = "Faroração";
-            this.faroraçãoToolStripMenuItem.Click += new System.EventHandler(this.faroraçãoToolStripMenuItem_Click);
             // 
             // Form2
             // 
